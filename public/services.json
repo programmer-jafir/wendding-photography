@@ -2,28 +2,37 @@
     {
         "id": 1,
         "name": "Basic",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "price": "12,500/=",
+        "description": "1 Top Photographer",
+        "description1":"Event Duration: 4 Hours",
+        "description2":"Number of Pictures: Unlimited (All post processed)",
+        "description3":"Specially Edited Photos: 100 copies",
+        "description4":"Print: 4R (4”x6″) Matte Prints: 100 copies",
+        "description6":"*All soft copy of photos will be delivered in Dream Weaver's Signature Pen drive",
+        "img": "https://i.ibb.co/dKkqsby/3.png"
     },
     {
+        "id": 2,
         "name": "Stander",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "price": "15,000/=",
+        "description": "1 Top Photographer + 1 Top Associate Photographer.",
+        "description1":"Event Duration: 4 Hours",
+        "description2":"Number of Pictures: Unlimited (All post processed)",
+        "description3":"Specially Edited Photos: 100 copies",
+        "description4":"Print: 4R (4”x6″) Matte Prints: 100 copies",
+        "description6":"*All soft copy of photos will be delivered in Dream Weaver's Signature Pen drive",
+        "img": "https://i.ibb.co/jJ5FW26/2.png"
     },
     {
         "id": 3,
         "name": "Premium",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "price": "20,000/=",
+        "description": "1 Top Photographer + 1 Top Associate Photographer.",
+        "description1":"Event Duration: 4 Hours",
+        "description2":"Number of Pictures: Unlimited (All post processed)",
+        "description3":"Specially Edited Photos: 100 copies",
+        "description4":"Print: 12L (12”x 18″) Matte Print: 1 copy",
+        "description5":"*All soft copy of photos will be delivered in Dream Weaver's Signature Pen drive",
+        "img": "https://i.ibb.co/ZW3551Y/1.png"
     }
 ]
