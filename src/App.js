@@ -10,6 +10,7 @@ import Checkout from './Pages/Checkout/Checkout/Checkout';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import NotFound from './Pages/Shared/NotFound/NotFound';
 import About from './Pages/About/About';
+import Footer from './Pages/Shared/Footer/Footer';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
     }></Route>
     <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

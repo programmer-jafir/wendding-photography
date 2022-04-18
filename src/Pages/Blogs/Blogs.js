@@ -1,9 +1,10 @@
 import React from 'react';
 import { Accordion } from 'react-bootstrap';
+import './Blogs.css'
 
 const Blogs = () => {
     return (
-        <div className='mt-3'>
+        <div className='mt-3 margin-footer'>
             <h1 className='text-primary text-center mp-5'>QA Section</h1>
             <Accordion defaultActiveKey="0">
   <Accordion.Item eventKey="0">
