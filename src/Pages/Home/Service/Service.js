@@ -5,8 +5,8 @@ const Service = ({service}) => {
 
     const navigate = useNavigate();
 
-    const navigateToServiceDetail = id =>{
-        navigate(`/service/${id}`);
+    const navigateToServiceDetail = (id) =>{
+        navigate(`/checkout/${id}`);
     }
 
     return (
