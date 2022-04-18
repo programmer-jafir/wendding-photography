@@ -9,6 +9,7 @@ import Header from './Pages/Shared/Header/Header';
 import Checkout from './Pages/Checkout/Checkout/Checkout';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import NotFound from './Pages/Shared/NotFound/NotFound';
+import About from './Pages/About/About';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <Route path='/home' element={<Home/>}/>
     <Route path='/services' element={<Services/>}/>
     <Route path='/blogs' element={<Blogs/>}/>
+    <Route path='/about' element={<About></About>}></Route>
     <Route path='login' element={<Login/>}/>
     <Route path='/register' element= {<Register></Register>}/>
     <Route path='/checkout/:serviceId' element ={

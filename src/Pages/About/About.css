@@ -1,0 +1,36 @@
+.about{
+    width: 100%;
+    padding: 78px 0x;
+    color: gray;
+    font-weight: bold;
+}
+.about img{
+    height: auto;
+    width: 420px;
+    border-radius: 20px;
+}
+.about-text{
+    width: 550px;
+}
+.about-text h1{
+    color: rgb(13, 14, 46);
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.about-text h5{
+    color: dimgrey;
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
